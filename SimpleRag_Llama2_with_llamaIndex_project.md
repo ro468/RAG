@@ -165,4 +165,4 @@ print(response)
 - **query**: A method to submit a query to the index and receive a response based on the indexed documents.
 
 ---
-By following these steps, you can create a Q&A system based on the "Attention is All You Need" paper using state-of-the-art NLP models and tools. This system leverages advanced language models, efficient indexing, and embedding techniques to provide accurate and relevant answers to user queries.
+By following these steps, we can create a Q&A system based on the "Attention is All You Need" paper using state-of-the-art NLP models and tools. This system leverages advanced language models, efficient indexing, and embedding techniques to provide accurate and relevant answers to user queries.
